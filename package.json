@@ -1,0 +1,13 @@
+{
+  "name": "js-chess",
+  "version": "0.0.0-alpha",
+  "description": "JS Chess",
+  "main": "index.js",
+  "repository": "git@github.com:amypellegrini/js-chess.git",
+  "author": "Amy Pellegrini <amyvpellegrini@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
