@@ -1,5 +1,11 @@
-# js-chess
+# JS Chess
 
-Chess Game written in JavaScript, for fun and glory!
+Chess Game written in JavaScript / HTML / CSS
 
-Based on this repo I intend to do a step by step walkthrough training video course.
+## Running the app
+
+`node testServer.js`
+
+## Test suite
+
+Run `node testServer.js` and access http://localhost:3000/**test**/testRunner.html
